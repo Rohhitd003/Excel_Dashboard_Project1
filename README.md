@@ -1,2 +1,11 @@
 # Vrinda_Store_Analysis_ExcelProject
 Vrinda Store is an Online Product Selling Plateform We analysing their sell data of year 2022 so that they can maximise their Profit in upcoming year over their product demands.
+So Cases On which we analysing their sales data.
+Comparing Sales and orders using single chart.
+Which month got the Highest Sales and orders.
+Who purchased more Man and Women in year 2022.
+What are the diffrent order status in 2022.
+List Top 10 states contributing the sales
+Relation Between Age and Gender based on Number of orders.
+Which channel is contributing to maximum sales?
+Highest selling catagory.
