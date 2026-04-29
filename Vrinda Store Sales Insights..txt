@@ -1,0 +1,30 @@
+-so For data analysis of Vrinda Online Store we first import file in excel then do basic column setting like adjusting width and all
+-after that we going for data cleaning process. For it we check that do we have any null values or duplicates.
+-After handling null values and cleaning the data we are going to process our data.
+-So in data processing part we do some calculation in our data to proceed it further.
+-For this data set we catagorised genders on their age group also for monthly sales we extract month data from date.
+-Now for data Analysis we created Pivot Table for dashboard.
+-SO first we calculated total orders and amount monthly sales.
+-Then we calculated total sales in men or women to get whose purchase more.
+-Then we check that which age group purchased more products so we get women aged 30-49 shop more.
+-Then we calculated which top 5 states data where item sold more. so we got that MH, Karnataka, Up, telangana and tamilnadu.
+-After that we check On which chennal item sold more we got that By Amazon we got More customers
+-After that we checked that what was the order status in FY 2022 we got Percentage of orders got delivered means sales is good.
+
+Insights That we share for vrinda store to maximize their sales in FY 2023:-
+1.In march month of 2022 we got more sales.
+2.~65% of Women ordered Item then mens. 
+3.Most Of the ordered got delivered so overall sales is good.
+4.In top 5 states MH,Karnataka,UP, Telangana, Tamilnadu has most of the orders.
+5.In adult category women purchased more items around 35%.
+6.From Amazon Flipkart and Myntra channels has most orders.
+
+Next Steps:-Sample Insights
+-Women are ore likely to buy compared to men(~65%)
+-Mh,Up,Karnataka are the top states has sales(~35%)
+-Adult Group(30-49)yrs is maximum contributing (~50%)
+-Amazon myntra flipkart channels are more contributing(~80% of sales)
+
+Final Conclusion:-
+Target Women customersof age group(30-49 yrs) living in maharashtra, Up, Karnataka by showing
+ads/coupans/offers available on Amzon, Flipkart, Myntra.
