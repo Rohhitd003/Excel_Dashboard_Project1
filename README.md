@@ -9,3 +9,6 @@ List Top 10 states contributing the sales
 Relation Between Age and Gender based on Number of orders.
 Which channel is contributing to maximum sales?
 Highest selling catagory.
+
+Final Conclusion Of the Project:-
+After analysing their sales data we got that Women of age group(30-49 yrs) living in maharashtra, karnataka, Uttarpradesh are more likely to buy. TO maximise sales in upcoming years they have to provide them Ads/Coupans/Offers of Amazon, Flipkart,Myntra channel so that they can buy more.
